@@ -13,3 +13,5 @@ As of yet I have only designed a few configurations and only for AAA batteries. 
 ## Making your own battery cases
 
 I get the battery springs from Ali Express but anyone with the same measures will do. You are of course free to change the models or use them in any other project if you need to as long as you follow the LICENSE and give credit.
+
+Battery Case by Espen Ruud Schultz is licensed under CC BY-SA 4.0CC
